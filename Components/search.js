@@ -22,7 +22,8 @@ const styles = {
         height: 50,
         borderColor: '#000000',
         borderWidth: 1,
-        paddingLeft: 5
+        paddingLeft: 50
+
     }
 }
 
